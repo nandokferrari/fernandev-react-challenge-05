@@ -12,7 +12,10 @@ Siga as instruções dentro do arquivo App.jsx e bora codar!
 
 ## Objetivos
 
-em breve.
+Consumir a API e listar todos os pokémons que a consulta do seguinte endpoint retornar:
+https://pokeapi.co/api/v2/pokemon
+
+**Você deve exibir NOME, EXPERIÊNCIA e IMAGEM de cada pokémon.**
 
 ## Branch com solução
 
@@ -20,4 +23,4 @@ Eu subi uma branch de nome `solution` com a minha resolução do desafio para qu
 
 ## Resolução do desafio
 
-em breve.
+https://youtu.be/CnWRFjt5t-Q
